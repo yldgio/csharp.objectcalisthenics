@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnelevelOfIndentationPerMethod;
+namespace _1.OnelevelOfIndentationPerMethod;
 
 public class Cache
 {

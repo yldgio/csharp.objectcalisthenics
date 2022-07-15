@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OneDotPerLine;
+namespace _5.OneDotPerLine;
 
 public class Person
 {

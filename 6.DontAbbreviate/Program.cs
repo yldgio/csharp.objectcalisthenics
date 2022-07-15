@@ -10,8 +10,9 @@
  *    - be semantic:
  *          var stringa = "mario.rossi@mail.com"; //bad
  *          var emailAddress = "mario.rossi@mail.com"; //good
- *    - be 'objectful' user.Id VS user.UserId
- *    - be consistent with casing and prefix
+ *    - be 'objectful' 
+ *      user.Id VS user.UserId
+ *    - be consistent with casing and prefixes
  *    - be consistent with language
  * 
  * 

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace OnelevelOfIndentationPerMethod;
+namespace _1.OnelevelOfIndentationPerMethod;
 
 
 class Program

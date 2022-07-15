@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
-using OneDotPerLine;
+using _5.OneDotPerLine;
 
 class Program
 {
